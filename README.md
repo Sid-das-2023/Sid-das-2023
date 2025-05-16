@@ -6,7 +6,7 @@
 - 🚀 Currently building a **Pinterest clone** and a **MERN e-commerce app**
 - 💡 Exploring full-stack projects and embedded systems
 - 🏆 Best Design Report @ ASME XRC, Top 10 in Drone Racing, Organizer at NITR's Tech Fest
-- 📫 Reach me at **sidsekhardas2023@gmail.com**
+- 📫 Reach me at **sidharthadas2149@gmail.com**
 - 🌐 Portfolio (soon): *Coming Soon*
 
 ---
