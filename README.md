@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidhartha Sekhar Das</h1>
-<h3 align="center">Mechanical Engineer @ NIT Rourkela | Web Developer | Embedded Enthusiast</h3>
+<h3 align="center">Student @ NIT Rourkela | Web Developer | Embedded Enthusiast</h3>
 
 ---
 
