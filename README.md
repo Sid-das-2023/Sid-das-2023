@@ -6,7 +6,7 @@
 - 🚀 Currently building a Backend projects with **MERN** and **ML** projects
 - 💡 Exploring full-stack projects and embedded systems
 - 🏆 Best Design Report @ ASME XRC, Top 10 in Drone Racing, Organizer at NITR's Tech Fest
-- 📫 Reach me at **sidharthadas2149@gmail.com**
+- 📫 Reach me at **dassidharthasekhar@gmail.com**
 - 🌐 Portfolio (soon): *Coming Soon*
 
 ---
